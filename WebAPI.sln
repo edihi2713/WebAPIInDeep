@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{812E2F5C-FDED-47F4-8891-7F083693847F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{34D0A786-2712-4E77-AA2C-192C5004B09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessEntities", "BusinessEntities\BusinessEntities.csproj", "{DAB41B67-CF23-46DE-ADAB-F30AA9D416CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812E2F5C-FDED-47F4-8891-7F083693847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812E2F5C-FDED-47F4-8891-7F083693847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812E2F5C-FDED-47F4-8891-7F083693847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812E2F5C-FDED-47F4-8891-7F083693847F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D0A786-2712-4E77-AA2C-192C5004B09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D0A786-2712-4E77-AA2C-192C5004B09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D0A786-2712-4E77-AA2C-192C5004B09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D0A786-2712-4E77-AA2C-192C5004B09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB41B67-CF23-46DE-ADAB-F30AA9D416CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB41B67-CF23-46DE-ADAB-F30AA9D416CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB41B67-CF23-46DE-ADAB-F30AA9D416CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB41B67-CF23-46DE-ADAB-F30AA9D416CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
