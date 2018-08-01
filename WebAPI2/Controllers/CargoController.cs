@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace WebAPI.Controllers
+namespace WebAPI2.Controllers
 {
     public class CargoController : ApiController
     {
@@ -82,5 +82,6 @@ namespace WebAPI.Controllers
 
             return false;
         }
+
     }
 }
