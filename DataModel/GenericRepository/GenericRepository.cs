@@ -98,7 +98,7 @@ namespace DataModel.GenericRepository
 
         public virtual IEnumerable<TEntity> GetAll()
         {
-            return DbSet.ToList();
+            return DbSet.Take(10).ToList();
         }
 
 
